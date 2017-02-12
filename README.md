@@ -5,4 +5,4 @@ This is a simple basketball counter app.
 
 ### First Version
 
-![alt tag](https://github.com/norisg/android_counter_app/counterapp)
+![alt tag](https://github.com/norisg/android_counter_app/raw/master/counterapp.png)
